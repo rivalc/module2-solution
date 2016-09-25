@@ -12,13 +12,13 @@ h1 {
   background-color: #d3d3d3; 
   height: auto;
   margin: 14px;
-  font-family: Helvetica;
-  color: black;
 }
 .text {
   padding: 15px;
   text-align: left;
   clear: right;
+  font-family: Helvetica;
+  font-size: 16px;
 }
 .title1{
   border: 1px solid black;
@@ -36,7 +36,6 @@ h1 {
   float: right;
   background-color: #363B3B;
   text-align: center;
-
   width: 90px;
   height: 30px;
   font-family: Helvetica;
